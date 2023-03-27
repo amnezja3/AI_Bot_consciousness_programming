@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pl" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>50 – Wikisłownik, wolny słownik wielojęzyczny</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgRequestId":"3fe56236-db0b-4a2c-97a4-ba3024546df2","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"50","wgTitle":"50","wgCurRevisionId":7595528,"wgRevisionId":7595528,"wgArticleId":7467,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["polski język migowy (indeks)","użycie międzynarodowe (indeks)"],"wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"50","wgRelevantArticleId":7467,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],
+"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":7595528,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":4000,"wgNoticeProject":"wiktionary","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgULSCurrentAutonym":"polski","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true};RLSTATE={"ext.gadget.autonumber":"ready","ext.gadget.inflection-styles":"ready","ext.gadget.wikibugs-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready",
+"mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.fix-section-hash","ext.gadget.term-num","ext.gadget.section-links","ext.gadget.rtl-category-pages","ext.gadget.enhanced-search","ext.gadget.shorts","ext.gadget.collapsible","ext.gadget.hide-empty-fields","ext.gadget.keyboard-yiddish","ext.gadget.multiple-category-boxes","ext.gadget.term-preview","ext.gadget.wikibugs","ext.gadget.ReferenceTooltips","ext.gadget.tooltips","ext.gadget.show-hidden-categories","ext.gadget.furigana","ext.gadget.translations-columns","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.uls.compactlinks","ext.uls.interface"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=pl&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=ext.gadget.autonumber%2Cinflection-styles%2Cwikibugs-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.38.0-wmf.26"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="50 – Wikisłownik, wolny słownik wielojęzyczny"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//pl.m.wiktionary.org/wiki/50"/>
+<link rel="alternate" type="application/x-wiki" title="Edytuj" href="/w/index.php?title=50&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikisłownik (pl)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pl.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pl.wiktionary.org/wiki/50"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-50 rootpage-50 skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">50</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Z Wikisłownika – wolnego słownika wielojęzycznego</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Przejdź do nawigacji</a>
+		<a class="mw-jump-link" href="#searchInput">Przejdź do wyszukiwania</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="pl" dir="ltr"><div class="mw-parser-output"><h2><span class="mw-headline" id="50">50</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=50&amp;action=edit&amp;section=1" title="Edytuj sekcję: 50">edytuj</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="float:right">
+<table style="border:1px solid black; text-align:center; background-color:#F7FFF7; line-height:1em; float:right">
+
+<tbody><tr>
+<td><a href="/wiki/0" title="0">0</a> • <a href="/wiki/1" title="1">1</a> • <a href="/wiki/2" title="2">2</a> • <a href="/wiki/3" title="3">3</a> • <a href="/wiki/4" title="4">4</a>
+</td></tr>
+<tr>
+<td style="border-bottom:1px solid #cccccc; border-collapse:separate; border-spacing:2px"><a href="/wiki/5" title="5">5</a> • <a href="/wiki/6" title="6">6</a> • <a href="/wiki/7" title="7">7</a> • <a href="/wiki/8" title="8">8</a> • <a href="/wiki/9" title="9">9</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/10" title="10">10</a> • <a href="/wiki/11" title="11">11</a> • <a href="/wiki/12" title="12">12</a> • <a href="/wiki/13" title="13">13</a> • <a href="/wiki/14" title="14">14</a>
+</td></tr>
+<tr>
+<td style="border-bottom:1px solid #cccccc; border-collapse:separate; border-spacing:2px"><a href="/wiki/15" title="15">15</a> • <a href="/wiki/16" title="16">16</a> • <a href="/wiki/17" title="17">17</a> • <a href="/wiki/18" title="18">18</a> • <a href="/wiki/19" title="19">19</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/20" title="20">20</a> • <a href="/wiki/21" title="21">21</a> • <a href="/wiki/22" title="22">22</a> • <a href="/wiki/23" title="23">23</a> • <a href="/wiki/24" title="24">24</a>
+</td></tr>
+<tr>
+<td style="border-bottom:1px solid #cccccc; border-collapse:separate; border-spacing:2px"><a href="/wiki/25" title="25">25</a> • <a href="/wiki/26" title="26">26</a> • <a href="/wiki/27" title="27">27</a> • <a href="/wiki/28" title="28">28</a> • <a href="/wiki/29" title="29">29</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/30" title="30">30</a> • <a href="/wiki/40" title="40">40</a> • <a class="mw-selflink selflink">50</a> • <a href="/wiki/60" title="60">60</a>
+</td></tr>
+<tr>
+<td style="border-bottom:1px solid #cccccc; border-collapse:separate; border-spacing:2px"><a href="/wiki/70" title="70">70</a> • <a href="/wiki/80" title="80">80</a> • <a href="/wiki/90" title="90">90</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/100" title="100">100</a> • <a href="/wiki/200" title="200">200</a> • <a href="/wiki/300" title="300">300</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/400" title="400">400</a> • <a href="/wiki/500" title="500">500</a> • <a href="/wiki/600" title="600">600</a>
+</td></tr>
+<tr>
+<td style="border-bottom:1px solid #cccccc; border-collapse:separate; border-spacing:2px"><a href="/wiki/700" title="700">700</a> • <a href="/wiki/800" title="800">800</a> • <a href="/wiki/900" title="900">900</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/1000" title="1000">1000</a> • <a href="/wiki/2000" title="2000">2000</a> • <a href="/wiki/3000" title="3000">3000</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/100_000" title="100 000">100 000</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/1_000_000" title="1 000 000">1 000 000</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/1_000_000_000" title="1 000 000 000">1 000 000 000</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=1_000_000_000_000&amp;action=edit&amp;redlink=1" class="new" title="1 000 000 000 000 (strona nie istnieje)">1 000 000 000 000</a>
+</td></tr>
+<tr>
+<td style="border-bottom:1px solid #cccccc; border-collapse:separate; border-spacing:2px"><a href="/w/index.php?title=1_000_000_000_000_000&amp;action=edit&amp;redlink=1" class="new" title="1 000 000 000 000 000 (strona nie istnieje)">1 000 000 000 000 000</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/e#e_(użycie_międzynarodowe)" title="e">e</a> • <a href="/wiki/i#i_(użycie_międzynarodowe)" title="i">i</a> • <span style="font-family:Times"><a href="/wiki/%CF%80#π_(użycie_międzynarodowe)" title="π">π</a></span> •  <a href="/wiki/%CF%86#φ_(użycie_międzynarodowe)" title="φ">φ</a><br /><a href="/wiki/69" title="69">69</a> • <a href="/wiki/269" title="269">269</a> • <a href="/wiki/420" title="420">420</a> • <a href="/wiki/666" title="666">666</a>
+</td></tr></tbody></table></div>
+<table class="wikitable">
+<tbody><tr>
+<th rowspan="2">język
+</th>
+<th rowspan="2">symbol
+</th>
+<th colspan="2">liczebnik
+</th>
+<th>rzeczownik
+</th></tr>
+<tr>
+<th>główny
+</th>
+<th>porządkowy
+</th>
+<th>nazwa liczby
+</th></tr>
+<tr>
+<td><span id="linkLanguage" title="polski">polski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/pi%C4%99%C4%87dziesi%C4%85t" title="pięćdziesiąt">pięćdziesiąt</a>
+</td>
+<td><a href="/wiki/pi%C4%99%C4%87dziesi%C4%85ty" title="pięćdziesiąty">pięćdziesiąty</a>
+</td>
+<td><a href="/wiki/pi%C4%99%C4%87dziesi%C4%85tka" title="pięćdziesiątka">pięćdziesiątka</a> <style data-mw-deduplicate="TemplateStyles:r7574220">.mw-parser-output .short-container{font-style:italic;text-decoration:none}.mw-parser-output .short-no-style{font-style:normal}.mw-parser-output .short-container a:hover{color:#002bb8;text-decoration:underline}.mw-parser-output .short-container a,.mw-parser-output .short-container a:visited{color:black}.mw-parser-output .short-variant1 a,.mw-parser-output .short-variant1 a:visited{color:#002bb8}.mw-parser-output .short-variant2 a,.mw-parser-output .short-variant2 a:visited{color:red}.mw-parser-output .short-variant3 a,.mw-parser-output .short-variant3 a:visited{color:green}</style><span class="short-container"><a href="/wiki/Aneks:Skr%C3%B3ty_u%C5%BCywane_w_Wikis%C5%82owniku#Ż" class="mw-redirect" title="Aneks:Skróty używane w Wikisłowniku"><span class="short-wrapper" title="rodzaj żeński" data-expanded="rodzaj żeński"><span class="short-content">ż</span></span></a></span>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="albański">albański</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/pes%C3%ABdhjet%C3%AB" title="pesëdhjetë">pesëdhjetë</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="amharski">amharski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/%E1%8A%80%E1%88%9D%E1%88%B3" title="ኀምሳ">ኀምሳ</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="angielski">angielski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/fifty" title="fifty">fifty</a>
+</td>
+<td><a href="/wiki/fiftieth" title="fiftieth">fiftieth</a>
+</td>
+<td><a href="/wiki/fifty" title="fifty">fifty</a>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="arabski">arabski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/%D8%AE%D9%85%D8%B3%D9%88%D9%86" title="خمسون">خمسون</a>, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7574220"/><span class="short-container"><a href="/wiki/Aneks:Skr%C3%B3ty_u%C5%BCywane_w_Wikis%C5%82owniku#E" class="mw-redirect" title="Aneks:Skróty używane w Wikisłowniku"><span class="short-wrapper" title="język arabski używany w Egipcie" data-expanded="język arabski używany w Egipcie"><span class="short-content">egip. arab.</span></span></a></span> <a href="/wiki/%D8%AE%D9%85%D8%B3%D9%8A%D9%86" title="خمسين">خمسين</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="baskijski">baskijski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/berrogeita_hamar" title="berrogeita hamar">berrogeita hamar</a>
+</td>
+<td><a href="/w/index.php?title=berrogeita_hamargarren&amp;action=edit&amp;redlink=1" class="new" title="berrogeita hamargarren (strona nie istnieje)">berrogeita hamargarren</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="białoruski">białoruski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/%D0%BF%D1%8F%D1%86%D1%8C%D0%B4%D0%B7%D0%B5%D1%81%D1%8F%D1%82" title="пяцьдзесят">пяцьдзесят</a>
+</td>
+<td><a href="/wiki/%D0%BF%D1%8F%D1%86%D1%96%D0%B4%D0%B7%D0%B5%D1%81%D1%8F%D1%82%D1%8B" title="пяцідзесяты">пяцідзесяты</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="bretoński">bretoński</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/hanter-kant" title="hanter-kant">hanter-kant</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="cebuano">cebuano</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/singkwenta" title="singkwenta">singkwenta</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="chorwacki">chorwacki</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/pedeset" title="pedeset">pedeset</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="czeski">czeski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/pades%C3%A1t" title="padesát">padesát</a>
+</td>
+<td><a href="/wiki/pades%C3%A1t%C3%BD" title="padesátý">padesátý</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="dolnołużycki">dolnołużycki</span>
+</td>
+<td>
+</td>
+<td><a href="/w/index.php?title=p%C4%9B%C5%9B%C5%BAaset&amp;action=edit&amp;redlink=1" class="new" title="pěśźaset (strona nie istnieje)">pěśźaset</a>
+</td>
+<td><a href="/w/index.php?title=p%C4%9B%C5%9B%C5%BAasety&amp;action=edit&amp;redlink=1" class="new" title="pěśźasety (strona nie istnieje)">pěśźasety</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="duński">duński</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/halvtreds" title="halvtreds">halvtreds</a>
+</td>
+<td><a href="/w/index.php?title=halvtredsindstyvende&amp;action=edit&amp;redlink=1" class="new" title="halvtredsindstyvende (strona nie istnieje)">halvtredsindstyvende</a><br /><a href="/w/index.php?title=halvtresende&amp;action=edit&amp;redlink=1" class="new" title="halvtresende (strona nie istnieje)">halvtresende</a>
+</td>
+<td><a href="/w/index.php?title=halvtredser&amp;action=edit&amp;redlink=1" class="new" title="halvtredser (strona nie istnieje)">halvtredser</a> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7574220"/><span class="short-container"><a href="/wiki/Aneks:Skr%C3%B3ty_u%C5%BCywane_w_Wikis%C5%82owniku#W" class="mw-redirect" title="Aneks:Skróty używane w Wikisłowniku"><span class="short-wrapper" title="rodzaj wspólny" data-expanded="rodzaj wspólny"><span class="short-content">w</span></span></a></span>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="esperanto">esperanto</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/kvindek" title="kvindek">kvindek</a>
+</td>
+<td><a href="/wiki/kvindeka" title="kvindeka">kvindeka</a>
+</td>
+<td><a href="/wiki/kvindeko" title="kvindeko">kvindeko</a>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="estoński">estoński</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/viisk%C3%BCmmend" title="viiskümmend">viiskümmend</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="fiński">fiński</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/viisikymment%C3%A4" title="viisikymmentä">viisikymmentä</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="francuski">francuski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/cinquante" title="cinquante">cinquante</a>
+</td>
+<td><a href="/wiki/cinquanti%C3%A8me" title="cinquantième">cinquantième</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="fryzyjski">fryzyjski</span>
+</td>
+<td>
+</td>
+<td><a href="/w/index.php?title=fyftich&amp;action=edit&amp;redlink=1" class="new" title="fyftich (strona nie istnieje)">fyftich</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="górnołużycki">górnołużycki</span>
+</td>
+<td>
+</td>
+<td><a href="/w/index.php?title=pje%C4%87d%C5%BAesat&amp;action=edit&amp;redlink=1" class="new" title="pjećdźesat (strona nie istnieje)">pjećdźesat</a>
+</td>
+<td><a href="/w/index.php?title=pje%C4%87d%C5%BAesaty&amp;action=edit&amp;redlink=1" class="new" title="pjećdźesaty (strona nie istnieje)">pjećdźesaty</a>
+</td>
+<td>
+</td></tr>
+
+
+<tr>
+<td><span id="linkLanguage" title="hawajski">hawajski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/kanalima" title="kanalima">kanalima</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="hebrajski">hebrajski</span>
+</td>
+<td><a href="/w/index.php?title=%D7%A0%D7%B3&amp;action=edit&amp;redlink=1" class="new" title="נ׳ (strona nie istnieje)">נ׳</a>
+</td>
+<td><a href="/wiki/%D7%97%D7%9E%D7%A9%D7%99%D7%9D" title="חמשים">חמשים</a> <small>(chamiszim)</small>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="hiszpański">hiszpański</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/cincuenta" title="cincuenta">cincuenta</a>
+</td>
+<td><a href="/wiki/quincuag%C3%A9simo" title="quincuagésimo">quincuagésimo</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="holenderski">holenderski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/vijftig" title="vijftig">vijftig</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="ilokano">ilokano</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/limapulo" title="limapulo">limapulo</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="interlingua">interlingua</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/cinquanta" title="cinquanta">cinquanta</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="islandzki">islandzki</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/fimmt%C3%ADu" title="fimmtíu">fimmtíu</a>
+</td>
+<td><a href="/w/index.php?title=fimmtugasti&amp;action=edit&amp;redlink=1" class="new" title="fimmtugasti (strona nie istnieje)">fimmtugasti</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="jidysz">jidysz</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/%D7%A4%D6%BF%D7%95%D7%A4%D6%BF%D7%A6%D7%99%D7%A7" title="פֿופֿציק">פֿופֿציק</a>
+</td>
+<td><i><a href="/wiki/Aneks:Jidysz_-_deklinacja#Odmiana_rodzajnika_określonego" title="Aneks:Jidysz - deklinacja"><small>דער</small></a></i> <a href="/w/index.php?title=%D7%A4%D6%BF%D7%95%D7%A4%D6%BF%D7%A6%D7%99%D7%A7%D7%A1%D7%98%D7%A2%D7%A8&amp;action=edit&amp;redlink=1" class="new" title="פֿופֿציקסטער (strona nie istnieje)">פֿופֿציקסטער</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="kataloński">kataloński</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/cinquanta" title="cinquanta">cinquanta</a>
+</td>
+<td><a href="/wiki/cinquant%C3%A8" title="cinquantè">cinquantè</a>
+</td>
+<td><a href="/wiki/cinquanta" title="cinquanta">cinquanta</a> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7574220"/><span class="short-container"><a href="/wiki/Aneks:Skr%C3%B3ty_u%C5%BCywane_w_Wikis%C5%82owniku#M" class="mw-redirect" title="Aneks:Skróty używane w Wikisłowniku"><span class="short-wrapper" title="rodzaj męski" data-expanded="rodzaj męski"><span class="short-content">m</span></span></a></span>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="litewski">litewski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/penkiasde%C5%A1imt" title="penkiasdešimt">penkiasdešimt</a>
+</td>
+<td><a href="/wiki/penkiasde%C5%A1imtas" title="penkiasdešimtas">penkiasdešimtas</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="łaciński">łaciński</span>
+</td>
+<td><a href="/wiki/L" title="L">L</a>
+</td>
+<td><a href="/wiki/quinquaginta" title="quinquaginta">quinquaginta</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="łotewski">łotewski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/piecdesmit" title="piecdesmit">piecdesmit</a>
+</td>
+<td><a href="/wiki/piecdesmitais" title="piecdesmitais">piecdesmitais</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="niemiecki">niemiecki</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/f%C3%BCnfzig" title="fünfzig">fünfzig</a>
+</td>
+<td><a href="/wiki/f%C3%BCnfzigste" title="fünfzigste">fünfzigste</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="nowogrecki">nowogrecki</span>
+</td>
+<td><a href="/w/index.php?title=%CE%BD%27&amp;action=edit&amp;redlink=1" class="new" title="ν&#39; (strona nie istnieje)">ν'</a>
+</td>
+<td><a href="/wiki/%CF%80%CE%B5%CE%BD%CE%AE%CE%BD%CF%84%CE%B1" title="πενήντα">πενήντα</a>
+</td>
+<td><a href="/w/index.php?title=%CF%80%CE%B5%CE%BD%CF%84%CE%B7%CE%BA%CE%BF%CF%83%CF%84%CF%8C%CF%82&amp;action=edit&amp;redlink=1" class="new" title="πεντηκοστός (strona nie istnieje)">πεντηκοστός</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="polski język migowy">polski język migowy</span>
+</td>
+<td>
+</td>
+<td><i>50:</i> <a href="/wiki/Plik:SGN-PL_SW_50.PNG" class="image"><img alt="SGN-PL SW 50.PNG" src="//upload.wikimedia.org/wikipedia/commons/6/65/SGN-PL_SW_50.PNG" decoding="async" width="31" height="45" data-file-width="31" data-file-height="45" /></a><br /><br /><i>50&#160;zł:</i><a href="/wiki/Plik:SGN-PL_SW_50-zl.PNG" class="image"><img alt="SGN-PL SW 50-zl.PNG" src="//upload.wikimedia.org/wikipedia/commons/d/d1/SGN-PL_SW_50-zl.PNG" decoding="async" width="32" height="68" data-file-width="32" data-file-height="68" /></a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="portugalski">portugalski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/cinq%C3%BCenta" title="cinqüenta">cinqüenta</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="rosyjski">rosyjski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/%D0%BF%D1%8F%D1%82%D1%8C%D0%B4%D0%B5%D1%81%D1%8F%D1%82" title="пятьдесят">пятьдеся́т</a>
+</td>
+<td><a href="/wiki/%D0%BF%D1%8F%D1%82%D0%B8%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D1%8B%D0%B9" title="пятидесятый">пятидеся́тый</a>
+</td>
+<td><a href="/wiki/%D0%BF%D1%8F%D1%82%D1%8C%D0%B4%D0%B5%D1%81%D1%8F%D1%82" title="пятьдесят">пятьдеся́т</a> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7574220"/><span class="short-container"><a href="/wiki/Aneks:Skr%C3%B3ty_u%C5%BCywane_w_Wikis%C5%82owniku#N" class="mw-redirect" title="Aneks:Skróty używane w Wikisłowniku"><span class="short-wrapper" title="rodzaj nijaki" data-expanded="rodzaj nijaki"><span class="short-content">n</span></span></a></span>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="rumuński">rumuński</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/cincizeci" title="cincizeci">cincizeci</a>
+</td>
+<td><a href="/wiki/cincizecilea" title="cincizecilea">cincizecilea</a> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r7574220"/><span class="short-container"><a href="/wiki/Aneks:Skr%C3%B3ty_u%C5%BCywane_w_Wikis%C5%82owniku#M" class="mw-redirect" title="Aneks:Skróty używane w Wikisłowniku"><span class="short-wrapper" title="rodzaj męski" data-expanded="rodzaj męski"><span class="short-content">m</span></span></a></span>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="sanskryt">sanskryt</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B6%E0%A4%A4%E0%A5%8D" title="पञ्चाशत्">पञ्चाशत्</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="serbsko-chorwacki">serbsko-chorwacki</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/pedeset" title="pedeset">pedeset</a>
+</td>
+<td><a href="/wiki/pedeseti" title="pedeseti">pedeseti</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="słowacki">słowacki</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/p%C3%A4%C5%A5desiat" title="päťdesiat">päťdesiat</a>
+</td>
+<td><a href="/wiki/p%C3%A4%C5%A5desiaty" title="päťdesiaty">päťdesiaty</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="suahili">suahili</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/hamsini" title="hamsini">hamsini</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="szwedzki">szwedzki</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/femtio" title="femtio">femtio</a>
+</td>
+<td><a href="/wiki/femtionde" title="femtionde">femtionde</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="tetum">tetum</span>
+</td>
+<td>
+</td>
+<td><a href="/w/index.php?title=limanulu&amp;action=edit&amp;redlink=1" class="new" title="limanulu (strona nie istnieje)">limanulu</a>
+</td>
+<td><a href="/w/index.php?title=ba_dala_limanulu&amp;action=edit&amp;redlink=1" class="new" title="ba dala limanulu (strona nie istnieje)">ba dala limanulu</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="turecki">turecki</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/elli" title="elli">elli</a>, <a href="/wiki/elin" title="elin">elin</a>
+</td>
+<td><a href="/wiki/elinci" title="elinci">elinci</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="ukraiński">ukraiński</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/%D0%BF%27%D1%8F%D1%82%D0%B4%D0%B5%D1%81%D1%8F%D1%82" title="п&#39;ятдесят">п'ятдесят</a>
+</td>
+<td><a href="/wiki/%D0%BF%27%D1%8F%D1%82%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D0%B8%D0%B9" title="п&#39;ятдесятий">п'ятдесятий</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="walijski">walijski</span>
+</td>
+<td>
+</td>
+<td><a href="/w/index.php?title=hanner_cant&amp;action=edit&amp;redlink=1" class="new" title="hanner cant (strona nie istnieje)">hanner cant</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="węgierski">węgierski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/%C3%B6tven" title="ötven">ötven</a>
+</td>
+<td><a href="/wiki/%C3%B6tvenedik" title="ötvenedik">ötvenedik</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="wilamowski">wilamowski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/f%C5%B3nfci%E1%B8%B1" title="fųnfciḱ">fųnfciḱ</a>, <a href="/wiki/funfcig" title="funfcig">funfcig</a>
+</td>
+<td><a href="/wiki/f%C5%B3nfci%E1%B8%B1sty" title="fųnfciḱsty">fųnfciḱsty</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><span id="linkLanguage" title="włoski">włoski</span>
+</td>
+<td>
+</td>
+<td><a href="/wiki/cinquanta" title="cinquanta">cinquanta</a>
+</td>
+<td><a href="/wiki/cinquantesimo" title="cinquantesimo">cinquantesimo</a>
+</td>
+<td>
+</td></tr></tbody></table></div><noscript><img src="//pl.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Źródło: „<a dir="ltr" href="https://pl.wiktionary.org/w/index.php?title=50&amp;oldid=7595528">https://pl.wiktionary.org/w/index.php?title=50&amp;oldid=7595528</a>”</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Specjalna:Kategorie" title="Specjalna:Kategorie">Kategorie</a>: <ul><li><a href="/wiki/Kategoria:polski_j%C4%99zyk_migowy_(indeks)" title="Kategoria:polski język migowy (indeks)">polski język migowy (indeks)</a></li><li><a href="/wiki/Kategoria:u%C5%BCycie_mi%C4%99dzynarodowe_(indeks)" title="Kategoria:użycie międzynarodowe (indeks)">użycie międzynarodowe (indeks)</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Menu nawigacyjne</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<label id="p-personal-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Narzędzia osobiste</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span>Nie jesteś zalogowany</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Specjalna:Moja_dyskusja" title="Dyskusja użytkownika dla tego adresu IP [n]" accesskey="n"><span>Dyskusja</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Specjalna:M%C3%B3j_wk%C5%82ad" title="Lista edycji wykonanych z tego adresu IP [y]" accesskey="y"><span>Edycje</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Specjalna:Utw%C3%B3rz_konto&amp;returnto=50" title="Zachęcamy do stworzenia konta i zalogowania, ale nie jest to obowiązkowe."><span>Utwórz konto</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=50" title="Zachęcamy do zalogowania się, choć nie jest to obowiązkowe. [o]" accesskey="o"><span>Zaloguj się</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<label id="p-namespaces-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Przestrzenie nazw</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/50" title="Zobacz stronę treści [c]" accesskey="c"><span>Hasło</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=Dyskusja:50&amp;action=edit&amp;redlink=1" rel="discussion" title="Dyskusja o zawartości tej strony (strona nie istnieje) [t]" accesskey="t"><span>Dyskusja</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">polski</span>
+			<span class="vector-menu-checkbox-expanded">rozwinięte</span>
+			<span class="vector-menu-checkbox-collapsed">zwinięte</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<label id="p-views-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Widok</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/50"><span>Czytaj</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=50&amp;action=edit" title="Edytuj tę stronę [e]" accesskey="e"><span>Edytuj</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=50&amp;action=history" title="Starsze wersje tej strony. [h]" accesskey="h"><span>Wyświetl historię</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Więcej opcji"
+	 >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<label id="p-cactions-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Więcej</span>
+			<span class="vector-menu-checkbox-expanded">rozwinięte</span>
+			<span class="vector-menu-checkbox-collapsed">zwinięte</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Szukaj</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Przeszukaj Wikisłownik" aria-label="Przeszukaj Wikisłownik" autocapitalize="none" title="Przeszukaj Wikisłownik [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Specjalna:Szukaj"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Szukaj wprowadzonego tekstu w treści stron" value="Szukaj" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Przejdź do strony o dokładnie takim tytule, o ile istnieje" value="Przejdź" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Wikis%C5%82ownik:Strona_g%C5%82%C3%B3wna"
+			title="Strona główna"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<label id="p-navigation-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Nawigacja</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikis%C5%82ownik:Strona_g%C5%82%C3%B3wna" icon="home" title="Przejdź na stronę główną [z]" accesskey="z"><span>Strona główna</span></a></li><li id="n-Specjalna:Allpages" class="mw-list-item"><a href="/wiki/Specjalna:Wszystkie_strony"><span>Indeks alfabetyczny</span></a></li><li id="n-Spis-języków" class="mw-list-item"><a href="/wiki/Kategoria:J%C4%99zyki"><span>Spis języków</span></a></li><li id="n-Słowniki-tematyczne" class="mw-list-item"><a href="/wiki/Kategoria:S%C5%82owniki_tematyczne"><span>Słowniki tematyczne</span></a></li><li id="n-Gramatyki" class="mw-list-item"><a href="/wiki/Kategoria:Gramatyki"><span>Gramatyki</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Specjalna:Losowa_strona" icon="die" title="Załaduj losową stronę [x]" accesskey="x"><span>Losowa strona</span></a></li><li id="n-Losuj-język" class="mw-list-item"><a href="/wiki/Specjalna:Losowa_w_kategorii/J%C4%99zyki"><span>Losuj język</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-redaction" class="mw-portlet mw-portlet-redaction vector-menu vector-menu-portal portal" aria-labelledby="p-redaction-label" role="navigation" 
+	 >
+	<label id="p-redaction-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Współpraca</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Specjalna:Ostatnie_zmiany" icon="recentChanges" title="Lista ostatnich zmian w Wikisłowniku. [r]" accesskey="r"><span>Ostatnie zmiany</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Wikis%C5%82ownik:Pomoc" icon="help" title="Tutaj możesz dowiedzieć się wielu rzeczy."><span>Pomoc</span></a></li><li id="n-bug_in_article" class="mw-list-item"><a href="//pl.wiktionary.org/w/index.php?title=Wikis%C5%82ownik:Zg%C5%82o%C5%9B_b%C5%82%C4%85d_w_ha%C5%9Ble&amp;action=edit&amp;section=new"><span>Zgłoś błąd w haśle</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="/wiki/Wikis%C5%82ownik:Kontakt"><span>Kontakt</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<label id="p-tb-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Narzędzia</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Specjalna:Linkuj%C4%85ce/50" title="Pokaż listę wszystkich stron linkujących do tej strony [j]" accesskey="j"><span>Linkujące</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Specjalna:Zmiany_w_linkowanych/50" rel="nofollow" title="Ostatnie zmiany w stronach, do których ta strona linkuje [k]" accesskey="k"><span>Zmiany w linkowanych</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Specjalna:Strony_specjalne" title="Lista wszystkich stron specjalnych [q]" accesskey="q"><span>Strony specjalne</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=50&amp;oldid=7595528" title="Stały link do tej wersji strony"><span>Link do tej wersji</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=50&amp;action=info" title="Więcej informacji na temat tej strony"><span>Informacje o tej stronie</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Specjalna:Cytuj&amp;page=50&amp;id=7595528&amp;wpFormIdentifier=titleform" title="Informacja o tym jak należy cytować tę stronę"><span>Cytowanie tego artykułu</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Drukuj lub eksportuj</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&amp;bookcmd=book_creator&amp;referer=50"><span>Utwórz książkę</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Specjalna:DownloadAsPdf&amp;page=50&amp;action=show-download-screen"><span>Pobierz jako PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=50&amp;printable=yes" title="Wersja do wydruku [p]" accesskey="p"><span>Wersja do druku</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<label id="p-lang-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">W innych językach</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wiktionary.org/wiki/50" title="50 – kataloński" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wiktionary.org/wiki/50" title="50 – czeski" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wiktionary.org/wiki/50" title="50 – estoński" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wiktionary.org/wiki/50" title="50 – angielski" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wiktionary.org/wiki/50" title="50 – hiszpański" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wiktionary.org/wiki/50" title="50 – francuski" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wiktionary.org/wiki/50" title="50 – ido" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wiktionary.org/wiki/50" title="50 – islandzki" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wiktionary.org/wiki/50" title="50 – gruziński" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-ku mw-list-item"><a href="https://ku.wiktionary.org/wiki/50" title="50 – kurdyjski" lang="ku" hreflang="ku" class="interlanguage-link-target"><span>Kurdî</span></a></li><li class="interlanguage-link interwiki-lo mw-list-item"><a href="https://lo.wiktionary.org/wiki/50" title="50 – laotański" lang="lo" hreflang="lo" class="interlanguage-link-target"><span>ລາວ</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wiktionary.org/wiki/50" title="50 – litewski" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-li mw-list-item"><a href="https://li.wiktionary.org/wiki/50" title="50 – limburski" lang="li" hreflang="li" class="interlanguage-link-target"><span>Limburgs</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wiktionary.org/wiki/50" title="50 – węgierski" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wiktionary.org/wiki/50" title="50 – niderlandzki" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wiktionary.org/wiki/50" title="50 – japoński" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wiktionary.org/wiki/50" title="50 – norweski" lang="no" hreflang="no" class="interlanguage-link-target"><span>Norsk</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wiktionary.org/wiki/50" title="50 – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wiktionary.org/wiki/50" title="50 – portugalski" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wiktionary.org/wiki/50" title="50 – rosyjski" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wiktionary.org/wiki/50" title="50 – słowacki" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wiktionary.org/wiki/50" title="50 – serbski" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wiktionary.org/wiki/50" title="50 – fiński" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wiktionary.org/wiki/50" title="50 – chiński" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Tę stronę ostatnio zmodyfikowano o 14:29, 31 sty 2021. <img alt="Statystyki oglądalności" src="//upload.wikimedia.org/wikipedia/commons/d/d1/Chart_bar.png" decoding="async" title="Statystyki oglądalności" width="16" height="16" data-file-width="16" data-file-height="16" /> <a class="external text" href="//pageviews.toolforge.org?project=pl.wiktionary.org&amp;range=latest-30&amp;pages=50">Statystyki oglądalności strony</a></li>
+	<li id="footer-info-copyright">Tekst udostępniany na <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl">licencji Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o <a href="https://foundation.wikimedia.org/wiki/Warunki_korzystania">warunkach korzystania</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Polityka prywatności</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikis%C5%82ownik:O_Wikis%C5%82owniku" class="mw-redirect" title="Wikisłownik:O Wikisłowniku">O Wikisłowniku</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikis%C5%82ownik:Zrzeczenie_si%C4%99_odpowiedzialno%C5%9Bci" title="Wikisłownik:Zrzeczenie się odpowiedzialności">Informacje prawne</a></li>
+	<li id="footer-places-mobileview"><a href="//pl.m.wiktionary.org/w/index.php?title=50&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Wersja mobilna</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Dla deweloperów</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/pl.wiktionary.org">Statystyki</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Komunikat na temat ciasteczek</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.145","walltime":"0.174","ppvisitednodes":{"value":709,"limit":1000000},"postexpandincludesize":{"value":9398,"limit":2097152},"templateargumentsize":{"value":1642,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4092,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   68.965      1 -total"," 47.33%   32.640      1 Szablon:ż"," 45.14%   31.128      5 Szablon:skrót"," 40.77%   28.118      5 Szablon:skrót/szkielet"," 14.23%    9.817     49 Szablon:język_wiersza","  6.01%    4.145      1 Szablon:egiparab","  4.85%    3.344      2 Szablon:m","  4.81%    3.317      1 Szablon:liczby","  4.24%    2.927      1 Szablon:w","  3.72%    2.566      1 Szablon:דער"]},"cachereport":{"origin":"mw1367","timestamp":"20220317193103","ttl":1814400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1416"});});</script>
+</body>
+</html>
