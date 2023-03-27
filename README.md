@@ -9,3 +9,13 @@ run python le_START_LEARNING.py
                 -b True:OBS / SL chatBot are ON
 
 amateur python code ...
+
+your directory/
+your directory/dataProjects
+your directory/database_files
+your directory/memories
+your directory/mp3
+your directory/users
+
+
+
