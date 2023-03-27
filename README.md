@@ -6,18 +6,28 @@ The scripts are working, but not fully tested yet. My goal is to create a chat b
 The scripts in this version are just a simple neural network for part-of-speech verification, but they don't work the way I wanted them to.
 
 run python le_START_LEARNING.py
+
                 -t True voice recorder is ON
+                
                 -m True mediaWords are ON
+                
                 -b True:OBS / SL chatBot are ON
+                
 
 amateur python code ...
 
 your directory/
+
 your directory/dataProjects
+
 your directory/database_files
+
 your directory/memories
+
 your directory/mp3
+
 your directory/users
+
 
 
 
